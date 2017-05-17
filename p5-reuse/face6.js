@@ -1,7 +1,7 @@
 function setup() {
     createCanvas(50 * 10, 80 * 8);
     rectMode(CENTER);
-    frameRate(2);
+    frameRate(20);
 }
 
 function draw() {
